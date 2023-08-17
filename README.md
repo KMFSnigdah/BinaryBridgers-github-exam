@@ -1,1 +1,0 @@
-# BinaryBridgers-github-exam
